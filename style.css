@@ -114,8 +114,34 @@ body{
     border-radius:25px ;
     width: 40px;
 }
-
+.detsils-panding{
+    background-color: #f6f0bb;
+    font-weight: 600;
+    color: #ffcc00;
+    padding: 15px;
+    border-radius:25px ;
+    
+}
 
 .body-right{
     flex:1;
+    background-color: white;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(25, 100, 100, 0.2);
+    margin-left: 30px;
+}
+.body-right-dp{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: gray;
+    font-size: 50px;
+    background-color: #DCDCDC;
+    padding: 20px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+
+
 }
